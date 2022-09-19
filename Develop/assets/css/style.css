@@ -130,7 +130,7 @@ h3 {
 }
 
 
-/* /* Footer */
+/* Footer */
 
 footer {
     padding: 30px;
@@ -140,6 +140,7 @@ footer {
     font-size: 20px;
 }
 
-h2 {
+#footer-header {
     font-size: 20px;
+    margin-bottom: 0px;
 }
