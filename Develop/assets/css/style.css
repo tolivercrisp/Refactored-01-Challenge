@@ -8,18 +8,24 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header and Navigation Bar */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #d9dcd6;
+    color: #ffffff;
     font-size: 48px;
 }
 
 h1 {
     display: inline-block;
     font-size: 48px;
-    color: #d9dcd6;
+    color: #ffffff;
+}
+
+.seo {
+    color: rgb(217, 220, 214);
 }
 
 nav {
@@ -39,15 +45,13 @@ li {
     margin-left: 25px;
 }
 
+li a:hover {
+    filter: drop-shadow(0 0 0.5rem gray);
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-section {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 p {
