@@ -50,7 +50,7 @@ li {
 }
 
 li a:hover {
-    filter: drop-shadow(0 0 0.5rem gray);
+   text-decoration: underline;
 }
 
 a {
