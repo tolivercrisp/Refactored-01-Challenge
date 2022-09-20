@@ -36,9 +36,11 @@ I learned how to...
 
 ## Installation
 
+N/A
+
 ## Usage
 
-N/A
+To find this website, please find my repository named "Refactored-01-Challenge" at https://github.com/tolivercrisp/Refactored-01-Challenge.
 
 ## License
 
@@ -59,3 +61,6 @@ The last section of a high-quality README file is the license. This lets other d
 ## How to Contribute
 
 N/A
+
+
+Thank you!
