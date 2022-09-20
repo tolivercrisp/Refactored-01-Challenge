@@ -50,13 +50,13 @@ The last section of a high-quality README file is the license. This lets other d
 ## New Features
 
 **- Increased Accessibility:**  Overhauled and replaced previous HTML code with semantic HTML tags, as well as new descriptive HTML img alt Attributes to assist screen readers.
+
 **- Consolidated HTML/CSS code:** CSS code has been overhauled to mirror the order and appearance of HTML tags as they appear in index.html as closely as possible. These changes improve the overall readability of the code, and ensure practical, stress-free code changes in the future.
-**- Comments that describe functionality (mirror each other) **  
 
 **- More Professional Browser Tab:**  The browser tab now includes an "H" favicon and an accurate website description, "Horiseon | Home".
+
 **- Smooth Scrolling Behavior:** When the user clicks a navigation bar link, the application will scroll smoothly down to the targeted content, instead of instantly jumping to the content.
 **- Responsive Navigation Links** When the user hovers of a navigation bar link, the cursor will change into a "pointer" and the link will be underlined.
-**- **  
 
 ## How to Contribute
 
